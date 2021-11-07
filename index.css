@@ -1,15 +1,25 @@
 h1 {
-    color: blue;
+    color:white;
     text-align: center;
 }
 .me img {
     height: 250px;
-    width: 300px;
+    width: 250px;
 
 }
 body {
-    background-image: url("./lion.jpg");
+    background-image: url("./e2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: ;
+
 }
 div {
     color: white;
+    
+}
+.img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
