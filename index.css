@@ -1,7 +1,15 @@
 h1 {
     color: blue;
+    text-align: center;
 }
 .me img {
     height: 250px;
     width: 300px;
+
+}
+body {
+    background-image: url("./lion.jpg");
+}
+div {
+    color: white;
 }
