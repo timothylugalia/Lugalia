@@ -8,10 +8,11 @@ h1 {
 
 }
 body {
-    background-image: url("./e2.jpg");
+    background-image: url("./dark-low-poly-background_1048-7971.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    filter: ;
+    background-color: black;
+    
 
 }
 div {
